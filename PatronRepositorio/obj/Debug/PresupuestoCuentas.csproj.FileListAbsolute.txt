@@ -1,0 +1,7 @@
+D:\Impresiones\Desktop\PresupuestoCuentas\PatronRepositorio\obj\Debug\PresupuestoCuentas.csprojAssemblyReference.cache
+D:\Impresiones\Desktop\PresupuestoCuentas\PatronRepositorio\obj\Debug\PatronRepositorio.Form1.resources
+D:\Impresiones\Desktop\PresupuestoCuentas\PatronRepositorio\obj\Debug\PatronRepositorio.Properties.Resources.resources
+D:\Impresiones\Desktop\PresupuestoCuentas\PatronRepositorio\obj\Debug\PresupuestoCuentas.UI.Registro.Registro.resources
+D:\Impresiones\Desktop\PresupuestoCuentas\PatronRepositorio\obj\Debug\PresupuestoCuentas.csproj.GenerateResource.cache
+D:\Impresiones\Desktop\PresupuestoCuentas\PatronRepositorio\obj\Debug\PresupuestoCuentas.csproj.CoreCompileInputs.cache
+D:\Impresiones\Desktop\PresupuestoCuentas\PatronRepositorio\obj\Debug\PatronRepositorio.pdb
